@@ -1,2 +1,14 @@
 The Universal Player Assist is designed to be safe for use with Fortnite, Valorant, and Roblox when used exactly as described: it only collects local, user-consented performance data (FPS, ping, CPU/GPU usage, and optional user-recorded clips), runs standalone practice drills outside of the games, and provides non-intrusive on-screen information such as FPS and network health without reading or modifying game memory, injecting code, or intercepting game network traffic. Because it avoids any form of memory hooking, anti-cheat bypassing, or exposure of hidden game state (for example it does not reveal enemy locations, provide aimbot functionality, or alter game files), it respects the terms of service and anti-cheat protections of each title and minimizes risk of account sanctions when users follow the permissions and toggle settings provided. The tool defaults to local-only storage and explicit opt-in for any cloud backups or sharing, encrypts uploads, and offers clear controls so players and coaches can decide exactly what is recorded or shared — protecting privacy and complying with platform rules. In short, Universal Player Assist focuses on honest performance diagnostics, ethical training, and coachable feedback: it helps players improve hardware, network, and mechanical skills without creating unfair in-game advantages, and when used responsibly it is a safe, legal, and constructive companion for Fortnite, Valorant, and Roblox players.
 DUSGUISED AS RAZER SYNAPSE
+
+
+
+RUN SETUP WIZARD BEFORE USING THE UNIVERSAL CHEESE
+
+-fortnite esp buggy 🟡
+-roblox 🟢
+-valorant colorbot external 🟢
+
+🟢 = UP AND WORKING UNDETECTED
+🟡 = UP AND WORKING WITH MINOR ISSUE 50% UNDETECTED
+🔴 = DOWN AND BEING WORKED ON
